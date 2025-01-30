@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://frontendevercel.vercel.app/bazar-assets/logo/LOGO.png",
+    "light": "https://frontendevercel.vercel.app/bazar-assets/logo/LOGO.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://frontendevercel.vercel.app/bazar-assets/logo/LOGO.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -51,11 +51,7 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
+      "pages": ["introduction", "quickstart", "development"]
     },
     {
       "group": "Essentials",
@@ -70,9 +66,7 @@
     },
     {
       "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
+      "pages": ["api-reference/introduction"]
     },
     {
       "group": "Endpoint Examples",
