@@ -1,11 +1,15 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Bazar365 Documentation",
+  "description": "Bazar365 API Documentation",
+  "version": "1.0.0",
+  "Author": "Bazar365",
+  "Creator": "Hasib Ahamed Sakib",
   "logo": {
     "dark": "/images/logo.png",
     "light": "/images/logo.png"
   },
-  "favicon": "/images/logo.png",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
